@@ -12,6 +12,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/chet124L/Assignment3.git"
+    },
+    "author": "",
+   "license": "ISC",
+   "bugs": {
+       "url": "https://github.com/chet124L/Assignment3/issues"
+    },
+    "homepage": "https://github.com/chet124L/Assignment3#readme"
+}
   },
   "keywords": [],
   "author": "",
